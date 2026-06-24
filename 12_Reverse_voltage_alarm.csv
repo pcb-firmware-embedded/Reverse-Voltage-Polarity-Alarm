@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"LED1";"LED_D3.0mm_IRBlack";1;"TSAL4400";;;
+2;"J2,J1";"PinHeader_1x02_P2.54mm_Vertical";2;"Conn_01x02_Pin";;;
+3;"D1,D3";"D_DO-41_SOD81_P10.16mm_Horizontal";2;"1N4007";;;
+4;"BZ1";"Buzzer_15x7.5RM7.6";1;"Buzzer";;;
+5;"R1";"R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal";1;"1K";;;
